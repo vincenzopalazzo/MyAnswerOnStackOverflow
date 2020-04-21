@@ -1,0 +1,8 @@
+name: code_answer
+author: Vincenzo Palazzo @vincenzopalazzo vincenzopalazzodev@gmail.com
+
+environment:
+  sdk: '>=2.6.0 <3.0.0'
+
+dependencies:
+  json_object_lite: ^2.1.1
